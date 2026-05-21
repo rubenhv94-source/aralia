@@ -6,3 +6,4 @@ gspread_dataframe
 oauth2client
 numpy
 streamlit-authenticator
+pytz
